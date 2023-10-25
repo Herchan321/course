@@ -1,2 +1,2 @@
-# cour
+# course
 coursera course test
